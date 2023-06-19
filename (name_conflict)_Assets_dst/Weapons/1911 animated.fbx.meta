@@ -1,0 +1,210 @@
+fileFormatVersion: 2
+guid: 1c4a470de29a6a94b9d1688cf99f9ff9
+ModelImporter:
+  serializedVersion: 21100
+  internalIDToNameTable:
+  - first:
+      74: 3128806258944851737
+    second: Armature|8604d6965c034c69a263ef0cb861d507.obj.cleaner.materialmerger.gle
+  - first:
+      74: 7709686125681325085
+    second: Armature|Armature.001Action
+  - first:
+      74: -4070387426722429524
+    second: Armature|Object_2.001Action
+  - first:
+      74: 184556889851655876
+    second: Armature|Object_2Action
+  - first:
+      74: -7453387558714718212
+    second: Armature|Shoot
+  - first:
+      74: -6860562101973924113
+    second: Armature|Sketchfab_modelAction
+  - first:
+      74: -5924586991959987635
+    second: Armature.001|8604d6965c034c69a263ef0cb861d507.obj.cleaner.materialmerger.gle
+  - first:
+      74: 2264077025236624520
+    second: Armature.001|Armature.001Action
+  - first:
+      74: 3189945023714879352
+    second: Armature.001|Object_2.001Action
+  - first:
+      74: -5452076289479920097
+    second: Armature.001|Object_2Action
+  - first:
+      74: -4480620270409555663
+    second: Armature.001|Shoot
+  - first:
+      74: 5330203177057095518
+    second: Armature.001|Sketchfab_modelAction
+  - first:
+      74: 184398100408172433
+    second: Sketchfab_model|8604d6965c034c69a263ef0cb861d507.obj.cleaner.materialmerger.gle
+  - first:
+      74: -2364553213036526187
+    second: Sketchfab_model|Armature.001Action
+  - first:
+      74: 5786099521349733535
+    second: Sketchfab_model|Object_2.001Action
+  - first:
+      74: 6527030614957677866
+    second: Sketchfab_model|Object_2Action
+  - first:
+      74: -7595185252062032471
+    second: Sketchfab_model|Shoot
+  - first:
+      74: 7251557138433425265
+    second: Sketchfab_model|Sketchfab_modelAction
+  - first:
+      74: 2532266994237023084
+    second: 8604d6965c034c69a263ef0cb861d507.obj.cleaner.materialmerger.gle|8604d6965c034c69a263ef0cb861d507.obj.cleaner.materialmerger.gle
+  - first:
+      74: -5242947812686556663
+    second: 8604d6965c034c69a263ef0cb861d507.obj.cleaner.materialmerger.gle|Armature.001Action
+  - first:
+      74: -6670732154503380129
+    second: 8604d6965c034c69a263ef0cb861d507.obj.cleaner.materialmerger.gle|Object_2.001Action
+  - first:
+      74: -1379785188209260342
+    second: 8604d6965c034c69a263ef0cb861d507.obj.cleaner.materialmerger.gle|Object_2Action
+  - first:
+      74: 4962100809809045377
+    second: 8604d6965c034c69a263ef0cb861d507.obj.cleaner.materialmerger.gle|Shoot
+  - first:
+      74: 6155830957282749421
+    second: 8604d6965c034c69a263ef0cb861d507.obj.cleaner.materialmerger.gle|Sketchfab_modelAction
+  - first:
+      74: -3716657558340708601
+    second: Object_2|8604d6965c034c69a263ef0cb861d507.obj.cleaner.materialmerger.gle
+  - first:
+      74: -6846353839902669735
+    second: Object_2|Armature.001Action
+  - first:
+      74: 3882466838770775156
+    second: Object_2|Object_2.001Action
+  - first:
+      74: -6077357257980423058
+    second: Object_2|Object_2Action
+  - first:
+      74: -5338316370180350958
+    second: Object_2|Shoot
+  - first:
+      74: 2205244247132104196
+    second: Object_2|Sketchfab_modelAction
+  - first:
+      74: -4621351006172860058
+    second: Object_2.001|8604d6965c034c69a263ef0cb861d507.obj.cleaner.materialmerger.gle
+  - first:
+      74: 3692293856283791914
+    second: Object_2.001|Armature.001Action
+  - first:
+      74: 8618441109013824659
+    second: Object_2.001|Object_2.001Action
+  - first:
+      74: -1729310060591403477
+    second: Object_2.001|Object_2Action
+  - first:
+      74: -5384376376500608809
+    second: Object_2.001|Shoot
+  - first:
+      74: -6671280854451554215
+    second: Object_2.001|Sketchfab_modelAction
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
